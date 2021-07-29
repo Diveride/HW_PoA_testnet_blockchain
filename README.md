@@ -17,8 +17,6 @@ You will need to install :
 * __Geth__ : via their link [Go Ethereum](https://geth.ethereum.org/downloads/)
 It is important to note that you will need to keep Geth files in the same folder you will be running your network/nodes. 
 
-Puppeth -  to generate your genesis block.
-Geth, a command-line tool, to create keys, initialize nodes, and connect the nodes together.
 Have an Ethereum based wallet like MyCrypto which you will use to both check you balances and submit transaction from either on of your node directly or an independent wallet. 
 
 ## Setting up your testnet Network
