@@ -1,0 +1,20 @@
+=============== Jul 26, 2021 (EDT) ===============
+22:01:01.904921 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:01:01.966272 db@open opening
+22:01:01.967731 version@stat F·[] S·0B[] Sc·[]
+22:01:01.991758 db@janitor F·2 G·0
+22:01:01.991858 db@open done T·25.503218ms
+22:19:27.740192 db@close closing
+22:19:27.740807 db@close done T·613.975µs
+=============== Jul 26, 2021 (EDT) ===============
+22:20:44.976004 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:20:44.977013 version@stat F·[] S·0B[] Sc·[]
+22:20:44.977073 db@open opening
+22:20:44.977160 journal@recovery F·1
+22:20:44.977295 journal@recovery recovering @1
+22:20:45.019233 memdb@flush created L0@2 N·10214 S·257KiB "loc..seq,v26":"version,v1"
+22:20:45.019711 version@stat F·[1] S·257KiB[257KiB] Sc·[0.25]
+22:20:45.096200 db@janitor F·3 G·0
+22:20:45.096303 db@open done T·119.217084ms
+22:52:12.403947 db@close closing
+22:52:12.405324 db@close done T·1.375218ms
