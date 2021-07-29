@@ -17,7 +17,7 @@ You will need to install :
 * __Geth__ : via their link [Go Ethereum](https://geth.ethereum.org/downloads/)
 It is important to note that you will need to keep Geth files in the same folder you will be running your network/nodes. 
 
-Have an Ethereum based wallet like MyCrypto which you will use to both check you balances and submit transaction from either on of your node directly or an independent wallet. 
+Have an Ethereum based wallet like MyCrypto which you will use to both check you balances and submit transaction from one of your node directly or an independent wallet. 
 
 ## Setting up your testnet Network
 All the settings will be done out of your command-line tool directly. 
@@ -44,6 +44,7 @@ Then put the initial wallet you want pre-funded with the genesis block. We need 
 past the address without the 0x (already in)
 
 Create a chain ID (for testing purposes we took simpe one but in prod just do random) Then you need to export the config by following the below steps:
+
 5. select : manage existing genesis
 6. select : export genesis configuration
 7. save the specs in the same folder by just pressing enter
