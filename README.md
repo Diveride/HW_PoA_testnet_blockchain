@@ -90,7 +90,10 @@ Make sure to use http://127.0.0.1:8545 (instead of https) as the URL, select  ET
 3. Send a transaction and its confirmation
 Follow the prompts and you will end up with the below confirmation if your network is running/mining. 
 
+First Transaction
 ![Transaction 1](./screenshots/transaction_1.png)
+
+Second Transaction
 ![Transaction 2](./screenshots/transaction_1.png)
 
 Don't forget to look into your nodes to see how the transaction is being mined. 
